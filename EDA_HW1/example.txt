@@ -1,0 +1,5 @@
+Demand of resource1: 1
+1
+Demand of resource2: 2
+2 3
+4
